@@ -36,10 +36,5 @@ export default defineConfig([
     },
   },
   prettier,
-  globalIgnores([
-    '.next/**',
-    'coverage/**',
-    'next-env.d.ts',
-    'public/**',
-  ]),
+  globalIgnores(['.next/**', 'coverage/**', 'next-env.d.ts', 'public/**']),
 ]);

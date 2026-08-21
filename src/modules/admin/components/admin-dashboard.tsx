@@ -34,7 +34,9 @@ export function AdminDashboard() {
         <h2 className='text-lg'>Authentication guard required</h2>
         <p className='mt-2 text-sm text-amber-900'>
           This route is intentionally open in the starter. Add a guard in
-          <code className='mx-1 rounded bg-amber-100 px-1 py-0.5'>proxy.ts</code>
+          <code className='mx-1 rounded bg-amber-100 px-1 py-0.5'>
+            proxy.ts
+          </code>
           after selecting an authentication provider.
         </p>
       </section>

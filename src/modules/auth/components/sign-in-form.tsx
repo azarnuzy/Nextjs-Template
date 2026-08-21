@@ -26,7 +26,7 @@ export function SignInForm() {
     }
 
     setMessage(
-      'Form is valid. Connect your authentication adapter to complete sign in.'
+      'Form is valid. Connect your authentication adapter to complete sign in.',
     );
   }
 
