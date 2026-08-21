@@ -1,2 +1,2 @@
 export { SignInForm } from './components/sign-in-form';
-export { signInSchema, type SignInInput } from './schemas/sign-in-schema';
+export { type SignInInput, signInSchema } from './schemas/sign-in-schema';
